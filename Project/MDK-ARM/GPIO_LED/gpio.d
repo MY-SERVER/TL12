@@ -1,4 +1,4 @@
-gpio_led\gpio.o: ../Src/gpio.c
+gpio_led\gpio.o: ..\Drivers\Hardware_Driver\Src\gpio.c
 gpio_led\gpio.o: ../Inc/gpio.h
 gpio_led\gpio.o: ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal.h
 gpio_led\gpio.o: ../Inc/stm32l4xx_hal_conf.h
