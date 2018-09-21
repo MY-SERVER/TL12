@@ -106,6 +106,7 @@ int main(void)
 		HAL_Delay(2000);
 		HAL_GPIO_WritePin(USR_LED_GPIO_Port, USR_LED_Pin, GPIO_PIN_SET);
 		HAL_Delay(2000);
+		
 	
   /* USER CODE BEGIN 3 */
 
