@@ -1,0 +1,7 @@
+*.o
+*.__i*
+*.Administrator
+*.axf
+*.htm
+*.dep
+*.crf
